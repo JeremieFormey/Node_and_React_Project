@@ -1,5 +1,10 @@
 # Node_and_React_Project
 
+# Team Members : 
+Jérémie FORMEY DE SAINT LOUVENT, CDOF2
+Camille DUPRE LA TOUR, CDOF2
+Ryan JABBOUR, CDOF2
+
 This project is a Cinema booking system.
 
 The code is divided into two parts : project-frontend and backend.
