@@ -22,3 +22,8 @@ It also contains :
 - The app.component.ts file defines the root component of the app, serving as the main container for the app’s content. It includes the <router-outlet> in its template to display components based on the current route
 
 
+Backend :
+- The backend allows to create a movie (if admin), or to get a movie. 
+- It also allow to create a reservation and to input on the sql file storing all of them.
+  
+
