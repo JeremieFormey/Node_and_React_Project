@@ -15,7 +15,7 @@ The code is in typescript (.ts).
 
 The frontend is displaying the movies available, the reservation menu, and the bookings made for a given cinema session.
 The menu of the frontend contains a nav bar. 
-The frontend contains 3 pages accessible from the nav bar. Corresponding to its 3 components : 
+The frontend contains 3 pages using ag-grid, highcharts and leaflet, accessible from the nav bar. Corresponding to its 3 components : 
 - catalog
 - make-reservation
 - reservations
